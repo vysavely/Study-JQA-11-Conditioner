@@ -24,7 +24,6 @@ public class Conditioner {
         return minTemperature;
     }
 
-
     public int getCurrentTemperature() {
         return currentTemperature;
     }
